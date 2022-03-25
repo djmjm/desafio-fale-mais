@@ -1,0 +1,12 @@
+Esquema Lógico banco de dados desafio fale mais
+
+Chaves primárias com prefixo '#', chaves estrangeiras com prefixo "_", 
+referências detalhas após descrição das tabelas;;
+
+ORIGEM( #id, ddd )
+
+DESTINO( #id, ddd )
+
+TARIFA( #id, _id_orig, _id_dest, valor_minuto )
+	_id_orig referencia ORIGEM
+	_id_dest referencia DESTINO

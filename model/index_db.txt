@@ -1,0 +1,14 @@
+Indices do Insert padrão (origem|destino tabelas);;
+
+1 - 51
+2 - 11
+3 - 33
+4 - 41
+5 - 81
+6 - 44
+7 - 31
+8 - 21
+9 - 99
+10 - 91
+11 - 52
+12 - 64
